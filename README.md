@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Kakie2436
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Kakie2436/Kakie2436 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Welcome to my homepage
+##  SelfIntroduction
+西工大软件在读
+苦逼の前端开发
+主要分享学校OJ库+大作业+leetcode代码，具体请见不同分支
+喜欢的话给个star叭（球球）
